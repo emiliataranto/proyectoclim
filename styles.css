@@ -25,13 +25,13 @@ body {
 }
 
 .logo {
-  width: 200px;
+  width: 250px;
 }
 
 .logo-text h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 28px;
-  letter-spacing: 6px;
+  font-size: 24px;
+  letter-spacing: 3px;
   font-weight: 400;
   color: #2f3a66;
   margin-bottom: 10px; /* 👈 espacio con el eslogan */
@@ -39,7 +39,7 @@ body {
 
 
 .logo-text span {
-  font-size: 18px;
+  font-size: 15px;
   letter-spacing: 3px;
   font-weight: 300;
   color: #2f3a66;
@@ -166,11 +166,11 @@ body {
   }
 
   .team-area h3 {
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .team-area p {
-    font-size: 17px;
+    font-size: 22px;
   }
 }
 
